@@ -1,0 +1,16 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Óª¨ý
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÂÆˆà
+L
+java:S1874"6Remove this use of "implicitlyWait"; it is deprecated.(çŸóï
+Q	java:S125"<This block of commented-out lines of code should be removed.(ç²€Î
+?	java:S106-"+Replace this use of System.out by a logger.(ýøš'
+N
+java:S1854s"8Remove this useless assignment to local variable "wait".(ØïÚê
+V	java:S125d"<This block of commented-out lines of code should be removed.(’œŠ¢ùÿÿÿÿ
+Q	java:S125i"<This block of commented-out lines of code should be removed.(Ú‘Å¾
+?
+java:S1481s")Remove this unused "wait" local variable.(ØïÚê
+@	java:S106y"+Replace this use of System.out by a logger.(Îù‡¦
+F
+java:S5960,"+Remove this assertion from production code.(òÜñúÿÿÿÿ

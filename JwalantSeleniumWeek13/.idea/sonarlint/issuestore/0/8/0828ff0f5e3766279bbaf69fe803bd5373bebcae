@@ -1,0 +1,8 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éŒÍù
+L
+java:S1874"6Remove this use of "implicitlyWait"; it is deprecated.(çŸóï
+E	java:S106,"+Replace this use of System.out by a logger.(ƒåï‚ıÿÿÿÿ
+@	java:S106o"+Replace this use of System.out by a logger.(ÅØ†õ
+F
+java:S5960+"+Remove this assertion from production code.(ñ²œöıÿÿÿÿ

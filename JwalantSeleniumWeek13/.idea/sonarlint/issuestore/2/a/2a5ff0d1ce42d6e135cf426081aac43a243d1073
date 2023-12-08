@@ -1,0 +1,10 @@
+
+i
+java:S1192L"GDefine a constant instead of duplicating this literal "Logout" 3 times.(ÕûÒ×şÿÿÿÿ8×¿ãµÄ1
+~
+java:S1192$"bDefine a constant instead of duplicating this literal "(//a[@data-toggle='dropdown'])[1]" 5 times.(º±`8×¿ãµÄ1
+f
+java:S1192E"IDefine a constant instead of duplicating this literal "52225222" 4 times.(—•‚ï8×¿ãµÄ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀÈ¹úÿÿÿÿ8×¿ãµÄ1
+H
+java:S5960-"+Remove this assertion from production code.(„úÍ8÷¿ãµÄ1
